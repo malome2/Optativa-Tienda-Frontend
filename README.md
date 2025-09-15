@@ -1,1 +1,2 @@
-# Optativa-Tienda-Frontend
+Version: 0.0.0
+Descripcion 
