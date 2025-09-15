@@ -1,2 +1,3 @@
 Version: 0.0.0
 Descripcion 
+Stack: React, Tailwing, Git, Node, Git, Docker, Docker-Compose, Postman, Docker compas, Tableplus
